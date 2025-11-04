@@ -1,4 +1,4 @@
-# ☁️ Azure-Powered Lakehouse & ETL Framework
+# ☁️ Azure-Powered Data Lakehouse & ETL Framework
 
 [![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)](https://azure.microsoft.com/)
 [![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)](https://databricks.com/)
@@ -40,7 +40,7 @@ The pipeline transforms traditional OLTP (Online Transaction Processing) data in
 ## 🏗️ Project Folder Structure
 
 ```
-Azure-Powered Lakehouse and ETL Framework/
+Azure-Powered Data Lakehouse and ETL Framework/
 ├── 📁 ADF_Data_Ingestion_Pipeline/          # Azure Data Factory configurations
 │   ├── ADF - Data Ingestion Pipeline.JPG
 │   └── ForEachInput.json
